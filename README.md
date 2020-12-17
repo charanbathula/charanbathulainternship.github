@@ -1,2 +1,2 @@
-# charanbathulainternship.github
+# charanbathulainternship.github.io
 Online Boook Store
